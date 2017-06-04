@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/gocraft/web"
+	"github.com/sirupsen/logrus"
 )
 
 type timer interface {
